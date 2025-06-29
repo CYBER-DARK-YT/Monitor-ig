@@ -1,0 +1,11 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "main": "unban.js",
+  "scripts": {
+    "start": "node unban.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
